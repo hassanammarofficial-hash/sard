@@ -1,10 +1,13 @@
-Sard is a mobile application designed to help users discover and choose relevant Arabic knowledge content, including books and podcasts, based on their interests and needs.
+Sard is an AI-powered mobile application designed to help users discover and choose relevant Arabic knowledge content, including books and podcasts, based on their interests and needs.
 
 The app addresses the challenge of content overload and the difficulty of finding suitable content across different sources.
 
-Sard provides a guided discovery experience that helps users:
+Sard uses AI to provide a more personalized discovery experience and help users find content that matches their interests and goals.
+
+The app helps users:
 
 - 🔎 Discover relevant Arabic knowledge content
+- 🤖 Get AI-powered content recommendations
 - 🎯 Find content that matches their interests and needs
 - ⚖️ Compare available content and make informed choices
 - 💡 Move from simply consuming content toward reflection and practical application
