@@ -18,3 +18,14 @@ Sard focuses on creating a more guided discovery experience by helping users:
 ### Core Experience
 
 **Discover → Listen / Read → Save → Reflect → Apply**
+
+## 👥 Team Members
+
+| # | Team Member |
+|---|-------------|
+| 1 | Hassan Nasser Ammar |
+| 2 | Ahmed Mostafa Nasr |
+| 3 | Fatma Ahmed Abdelhai |
+| 4 | Reem Gamal Yehia |
+| 5 | Youssef Ahmed Mohamed Metwally |
+| 6 | Mennatallah Ramadan Azmy Mohamed |
