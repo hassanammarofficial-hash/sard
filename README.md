@@ -1,14 +1,8 @@
-# Sard | سَرد
+Sard is a mobile application designed to help users discover and choose relevant Arabic knowledge content, including books and podcasts, based on their interests and needs.
 
-**Graduation Project | Rwaad Egypt**
+The app addresses the challenge of content overload and the difficulty of finding suitable content across different sources.
 
-## 📌 Project Overview
-
-Sard is a digital platform designed to simplify the discovery of Arabic knowledge content, helping users find and choose relevant books, podcasts, and other educational content based on their interests and needs.
-
-The project addresses the challenge of content overload and fragmentation across different platforms, where users often struggle to identify what content is worth their time.
-
-Sard focuses on creating a more guided discovery experience by helping users:
+Sard provides a guided discovery experience that helps users:
 
 - 🔎 Discover relevant Arabic knowledge content
 - 🎯 Find content that matches their interests and needs
